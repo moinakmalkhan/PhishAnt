@@ -7,6 +7,3 @@ beautifulsoup4
 requests
 google
 scikit-learn
-
-
-
