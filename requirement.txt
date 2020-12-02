@@ -1,0 +1,12 @@
+Pillow
+numpy
+python-dateutil
+python-whois
+lxml
+beautifulsoup4
+requests
+google
+scikit-learn
+
+
+
